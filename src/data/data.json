@@ -98,26 +98,32 @@
     ],
     "hobbies": [
       "Listening music",
-      "Gaming",
+      "Content Writing",
       "Traveling",
       "Photography",
-      "Sports"
+      "Football",
+      "Adventure"
     ],
     "achievements": [
       {
-        "title": "Winner of Hackathon",
-        "issuer": "Fiserv",
+        "title": "In Dean's List",
+        "issuer": "Lovely Professional University",
         "date": "2023"
       },
       {
-        "title": "Bot creator",
-        "issuer": "Automation Anywhere",
-        "date": "2019"
+        "title": "RANK 1 out of 7000",
+        "issuer": "Product Based Contest",
+        "date": "2022"
       },
       {
-        "title": "President of high school rotary club",
-        "issuer": "Rotary club",
-        "date": "2017"
+        "title": "Winner of DSC WoW Blog writing challenge",
+        "issuer": "Google Developer's Student Club WoW Event",
+        "date": "2021"
+      },
+      {
+        "title": "Finalist of The Great Indian Alexa Hackathon",
+        "issuer": "Amazon Alexa",
+        "date": "2020"
       }
     ]
   },
