@@ -8,22 +8,22 @@ const Left = () => {
   const socialLinks = [
     {
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/tanmayarya29",
+      url: "https://www.linkedin.com/in/namanrastogi951",
       icon: LinkedInIcon,
     },
     {
       name: "Github",
-      url: "https://github.com/tanmayarya29",
+      url: "https://github.com/namanrastogi951",
       icon: GitHubIcon,
     },
     {
       name: "Twitter",
-      url: "https://twitter.com/tanmayarya29",
+      url: "https://twitter.com/NamanRastogi1",
       icon: TwitterIcon,
     },
     {
       name: "Instagram",
-      url: "https://www.instagram.com/tanmayarya29",
+      url: "https://www.instagram.com/namanrastogi951",
       icon: InstagramIcon,
     },
   ];
