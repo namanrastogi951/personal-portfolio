@@ -8,7 +8,7 @@ const Home = () => {
   const {about} = aboutData;
   const {prefix,name,description,skills}=about;
   const displayText = useTypingEffect({
-    text: skills.slice(1,4),
+    text: skills.slice(0,3),
     delay: 100,
   });
   return (
