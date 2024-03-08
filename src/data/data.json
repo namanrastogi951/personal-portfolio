@@ -37,21 +37,18 @@
     "image": "https://media.licdn.com/dms/image/D5603AQHscSO7F1S4cQ/profile-displayphoto-shrink_800_800/0/1709701788408?e=1715212800&v=beta&t=zoUDnT-GVbr25Lr1gQ6C37KqPymieu_lwqa4IdKV1TI",
     "certifications": [
       {
-        "title": "Introduction to ai",
-        "issuer": "Google",
-        "date": "2023",
+        "title": "Becoming a Product Manager",
+        "issuer": "LinkedIn Learning",
         "link": "https://coursera.org/verify/EW82ZGTHGZET"
       },
       {
-        "title": "Introduction to llm",
-        "issuer": "Google",
-        "date": "2023",
+        "title": "Agile with Atlassian Jira",
+        "issuer": "Coursera",
         "link": "https://coursera.org/verify/BAMWRANHH839"
       },
       {
-        "title": "Machine Learning Specialization",
-        "issuer": "DeepLearning.ai",
-        "date": "2023",
+        "title": "Google Project Management Certification",
+        "issuer": "Google Learning",
         "link": "https://coursera.org/verify/specialization/LSJTRTW6E6HC"
       },
       {
