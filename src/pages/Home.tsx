@@ -89,7 +89,7 @@ const Home = () => {
               color: "primary.main",
             }}
           >
-            {title}
+            {prefix}
           </Typography>
           <Typography
             sx={{
