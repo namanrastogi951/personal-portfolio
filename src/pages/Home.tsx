@@ -2,24 +2,13 @@ import TheGuy from "../components/TheGuy/TheGuy";
 import { Grid, Stack, Typography } from "@mui/material";
 import { useTypingEffect } from "../hooks/useTypingEffect";
 import CurrentlyPlaying from "../components/CurrentlyPlaying";
-
-const introduction = {
-  title: "Hi, My name is",
-  name: "Tanmay",
-  designations: [
-    "Software Engineer",
-    "Full Stack Developer",
-    "Machine Learning Enthusiast",
-    "Technology Enthusiast",
-  ],
-  description:
-    "I am a Software Engineer based in India. I have a passion for web development and love to create for web and mobile devices. I am a self-taught developer and I love to learn new things and technologies.",
-};
+import aboutData from "../data/data.json";
 
 const Home = () => {
-  const { title, name, designations, description } = introduction;
+  const {about} = aboutData;
+  const {prefix,name,description,skills}=about;
   const displayText = useTypingEffect({
-    text: designations,
+    text: skills.slice(1,3),
     delay: 100,
   });
   return (
