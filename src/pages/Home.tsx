@@ -6,7 +6,7 @@ import aboutData from "../data/data.json";
 
 const Home = () => {
   const {about} = aboutData;
-  const {prefix,name,description,skills}=about;
+  const {prefix,name,shortDescription,skills}=about;
   const displayText = useTypingEffect({
     text: skills.slice(0,3),
     delay: 100,
@@ -128,7 +128,7 @@ const Home = () => {
               textAlign: "justify",
             }}
           >
-            {description}
+            {shortDescription}
           </Typography>
         </Stack>
       </Grid>
