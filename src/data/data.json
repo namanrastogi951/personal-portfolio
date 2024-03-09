@@ -129,45 +129,47 @@
   },
   "education": [
     {
-      "degree": "B.Tech",
-      "major": "Computer Science",
+      "degree": "Bachelors of Technology",
+      "major": "Computer Science Engineering",
+      "minor": "Product Management and Machine Learning",
       "university": "Lovely Professional University",
       "date": "2023",
-      "grade": "8.5"
+      "grade": "CGPA - 8.57"
     },
     {
-      "degree": "Heigher Secondary",
-      "major": "Science",
-      "university": "Rawal convent school",
+      "degree": "Class XII (ISC)",
+      "major": "Maths and Computer Science",
+      "university": "La Martiniere College, Lucknow",
       "date": "2019",
-      "grade": "9.5"
+      "grade": "75.8%"
     },
     {
-      "degree": "High School",
+      "degree": "Class X (ICSE)",
       "major": "Science",
-      "university": "Alpine Valley Boarding School",
+      "university": "La Martiniere College, Lucknow",
       "date": "2017",
-      "grade": "9.6"
+      "grade": "92.8%"
     }
   ],
 
   "works": [
     {
-      "company": "Fiserv",
-      "position": "Technology - Analyst Program 1",
-      "duration": "July 2023 - Present",
+      "company": "Zeotap India Pvt Ltd",
+      "position": "Associate Program Manager",
+      "duration": "April 2023 - Present",
       "technologies": [
-        "React",
-        "Bash",
-        "Python",
-        "AWS",
-        "Machine Learning",
-        "LLM",
-        "Transformers",
-        "redis"
+        "Agile",
+        "Scrum",
+        "Jira",
+        "Confluence",
+        "Product Analysis",
+        "Market Research",
+        "Risk Analysis",
+        "Excel"
       ],
-      "tasks": ["Tech stack modernization from bash to python architecture"],
-      "achievements": ["Won internal hackathon"]
+      "tasks": {
+        ["Collaborated with a cross-functional team of Engineering, QA, and Infra/DevOps, utilizing Agile methodologies to build new features and constant upgrades.", "Implemented JIRA dashboards and conducted weekly filter level monitoring to track project progress and identify bottlenecks, resulting in a 22% reduction in cycle time for bugs, release blockers, etc.", "Contributed to Product Roadmap along with Market research and Product Analysis, constructed wireframes for new features", "Managed Sprint cycles, while working towards scalability of the Product solutions at the backend which led to high customer delight."],
+      "achievements": ["Achieved 22% reduction in cycle time resulting in faster feature delivery"]
     },
     {
       "company": "Inviz",
