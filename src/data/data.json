@@ -167,8 +167,7 @@
         "Risk Analysis",
         "Excel"
       ],
-      "tasks": {
-        ["Collaborated with a cross-functional team of Engineering, QA, and Infra/DevOps, utilizing Agile methodologies to build new features and constant upgrades.", "Implemented JIRA dashboards and conducted weekly filter level monitoring to track project progress and identify bottlenecks, resulting in a 22% reduction in cycle time for bugs, release blockers, etc.", "Contributed to Product Roadmap along with Market research and Product Analysis, constructed wireframes for new features", "Managed Sprint cycles, while working towards scalability of the Product solutions at the backend which led to high customer delight."],
+      "tasks": ["Collaborated with a cross-functional team of Engineering, QA, and Infra/DevOps, utilizing Agile methodologies to build new features and constant upgrades.", "Implemented JIRA dashboards and conducted weekly filter level monitoring to track project progress and identify bottlenecks, resulting in a 22% reduction in cycle time for bugs, release blockers, etc.", "Contributed to Product Roadmap along with Market research and Product Analysis, constructed wireframes for new features", "Managed Sprint cycles, while working towards scalability of the Product solutions at the backend which led to high customer delight."],
       "achievements": ["Achieved 22% reduction in cycle time resulting in faster feature delivery"]
     },
     {
