@@ -168,46 +168,34 @@
         "Excel"
       ],
       "tasks": ["Collaborated with a cross-functional team of Engineering, QA, and Infra/DevOps, utilizing Agile methodologies to build new features and constant upgrades.", "Implemented JIRA dashboards and conducted weekly filter level monitoring to track project progress and identify bottlenecks, resulting in a 22% reduction in cycle time for bugs, release blockers, etc.", "Contributed to Product Roadmap along with Market research and Product Analysis, constructed wireframes for new features", "Managed Sprint cycles, while working towards scalability of the Product solutions at the backend which led to high customer delight."],
-      "achievements": ["Achieved 22% reduction in cycle time resulting in faster feature delivery"]
+      "achievements": [
+        "Achieved 22% reduction in cycle time resulting in faster feature delivery",
+        "Single handedly managed the entire Project Management side of the Product for two weeks"
+      ]
     },
     {
-      "company": "Inviz",
-      "position": "Frontend Engineer",
-      "duration": "may 2022 - may 2023",
+      "company": "Inviz AI Pvt Ltd",
+      "position": "Product Manager Intern",
+      "duration": "May 2022 - April 2023",
       "technologies": [
-        "React",
-        "MUI",
+        "Product Roadmap",
+        "A/B Testing",
         "MongoDB",
-        "Redux",
-        "react-query",
-        "storybook",
-        "agile",
-        "git"
+        "Wireframe Design",
+        "UI/UX Design",
+        "UATs",
+        "Agile",
+        "Figma",
+        "Machine Learning"
       ],
       "tasks": [
-        "Worked on development of admin console for a ai based search engine.",
-        "Created a component library using storybook",
-        "worked on development of custom components like drag-drop, date-time-range picker and more"
+        "Managed the Product Lifecycle for Spell-Check, Autosuggest, and Pages by conducting User research, writing PRDs, and testing workflows (A/B Testing, UATs), product’s ML models.",
+        "Improved search functionalities, fetching nearly 18% better traction for the clients, and wrote Product Guide Documentation for clients to yield optimum outputs."
       ],
-      "achievements": []
-    },
-    {
-      "company": "Crowdanalytix",
-      "position": "Software Engineer",
-      "duration": "february 2022 - august 2022",
-      "technologies": ["Angular", "postman"],
-      "tasks": ["Worked on development of datax platform using angular."],
-      "achievements": []
-    },
-    {
-      "company": "Highradius",
-      "position": "Product Engineer",
-      "duration": "Jan 2022 - 2022",
-      "technologies": ["React", "Sklearn", "MySQL", "JDBC", "java", "servlet"],
-      "tasks": [
-        "Worked on development of full stack invoice prediction system using ai"
-      ],
-      "achievements": ["Won award for project completion."]
+      "achievements": [
+        "Fetched 18% better traction for Clients which got appreciated by several Clients",
+        "Wrote the Product Guide Documentation for overall use in and outside the Organisation"
+      ]
     }
   ],
   "projects": [
