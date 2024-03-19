@@ -155,7 +155,7 @@
   "works": [
     {
       "company": "Zeotap India Pvt Ltd",
-      "position": "Associate Program Manager",
+      "position": "Associate Product & Project Manager",
       "duration": "April 2023 - Present",
       "technologies": [
         "Agile",
@@ -167,8 +167,9 @@
         "Risk Analysis",
         "Excel"
       ],
-      "tasks": ["Collaborated with a cross-functional team of Engineering, QA, and Infra/DevOps, utilizing Agile methodologies to build new features and constant upgrades.", "Implemented JIRA dashboards and conducted weekly filter level monitoring to track project progress and identify bottlenecks, resulting in a 22% reduction in cycle time for bugs, release blockers, etc.", "Contributed to Product Roadmap along with Market research and Product Analysis, constructed wireframes for new features", "Managed Sprint cycles, while working towards scalability of the Product solutions at the backend which led to high customer delight."],
+      "tasks": ["Led Unify Segment POD, successfully launching ‘Ada’ Marketer’s AI-Companion and 2 feature-level enhancements all while collaborating with cross-functional teams and participating in GTM.", "Understood the requirements and pain points of clients and did Market Research, this contributed to new product strategies and executions helping us improve client experience.", "Built Dashboards for enhanced data visibility for our new feature NCE (Non-customer entity data) which helped clients get 1.5x times more effective marketing strategies.", "Conducted Bi-weekly monitoring to track project progress and identify bottlenecks that grow into potential risks, resulting in a 22% reduction in cycle time for bugs, release blockers, etc."],
       "achievements": [
+        "Succesfully launched 'Ada' AI Assistant for clients",
         "Achieved 22% reduction in cycle time resulting in faster feature delivery",
         "Single handedly managed the entire Project Management side of the Product for two weeks"
       ]
@@ -189,8 +190,9 @@
         "Machine Learning"
       ],
       "tasks": [
-        "Managed the Product Lifecycle for Spell-Check, Autosuggest, and Pages by conducting User research, writing PRDs, and testing workflows (A/B Testing, UATs), product’s ML models.",
-        "Improved search functionalities, fetching nearly 18% better traction for the clients, and wrote Product Guide Documentation for clients to yield optimum outputs."
+        "Delivered total revamp version of Spell-Check and Pages with simpler/better end-to-end flows.",
+        "Took ownership of the new AutoSuggest feature, defining KPI metrics and understanding User behavior, patterns, and trends after extensive User Research.",
+        "Improved search functionalities, fetching nearly 18% better traction for the clients, and wrote Product Guide Documentation for clients to yield optimum outputs"
       ],
       "achievements": [
         "Fetched 18% better traction for Clients which got appreciated by several Clients",
@@ -200,17 +202,17 @@
   ],
   "projects": [
     {
-      "title": "BAZAR",
-      "link": "https://bazar-app.vercel.app/",
-      "github": "https://github.com/tanmayarya29/bazar-frontend",
-      "technologies": ["React", "Node", "MongoDB", "Express", "JWT"],
-      "description": "A website for e-commerce",
-      "image": "https://source.unsplash.com/1600x900/?ecommerce"
+      "title": "Improving Monthly Users - Medium, A Case Study",
+      "link": "https://drive.google.com/file/d/13_em6O9VCtJY8LRJ0gXse3z21F0hSikS/view?usp=drive_link",
+      "github": "https://drive.google.com/file/d/13_em6O9VCtJY8LRJ0gXse3z21F0hSikS/view?usp=drive_link",
+      "technologies": ["Product Management", "User Research", "Wireframes", "Go-to-Market", "Strategy"],
+      "description": "A case study to improve monthly users of Medium Website",
+      "image": "https://miro.medium.com/v2/resize:fit:8978/1*s986xIGqhfsN8U--09_AdA.png"
     },
     {
       "title": "Portfolio Website",
-      "link": "https://iamtanmay.vercel.app/",
-      "github": "https://github.com/tanmayarya29/personal-portfolio/",
+      "link": "https://iamnaman.vercel.app/",
+      "github": "https://github.com/namanrastogi951/personal-portfolio/",
       "technologies": ["React", "Node", "MongoDB", "Express", "MUI"],
       "description": "A website for portfolio",
       "image": "https://source.unsplash.com/1600x900/?portfolio"
